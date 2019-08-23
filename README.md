@@ -28,3 +28,18 @@ Após terminar o desafio, você pode solicitar um pull request para a branch mas
 Só! Mas se quiser fazer a diferença, tente implementar um pouco de TDD e utilizar docker para execução do projeto.
 
 Boa sorte! :)
+
+
+Descrição de Bug
+Escrever um caso de teste de um cenário simples
+Automação
+	Não é pre-requisito, mas é interessante
+	Ferramentas sugeridas, mas podem ser outras
+		Capybara
+		Cypress
+BDD
+	Cucumber
+TDD
+Tipos de testes?
+	E2E
+	Stress
